@@ -12,7 +12,7 @@
 
 주석이 필요하다면 의도를 분명히 드러내지 못했다는 말이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d1a9418-be94-4f43-a665-2e9f2736652b/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191584-44ef3641-7830-4419-8f90-c77fe47ca17e.png)
 
 ‘현업에서는 주석을 통해 의미를 나타내는 경우도 있다고 한다.’
 
@@ -78,9 +78,9 @@ public List<Cell> getFlaggedCells() {
 
 코드의 단순성은 변하지 않았지만 코드는 더욱 명확해졌다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57507565-b065-4cd0-84e2-bbab55996dc6/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191608-10b6e111-7e2f-470e-98c8-73562c7bbe94.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd408c8e-ef56-446b-ba1c-1f4012c66aa8/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191636-7096667b-559b-42e0-b628-e51a7d2b4a7b.png)
 
 ### 그릇된 정보를 피하라
 
@@ -110,9 +110,9 @@ else
 	l = 01;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5671997-7b02-4e69-a2be-34c313e6ca37/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191651-aafff678-96b5-450e-bc3b-56ba1dd3be6a.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aeb5be7f-fc1a-42e9-a292-be84d0c32527/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191662-81962453-2928-433f-af1b-0f8f0f16d195.png)
 
 ### 의미 있게 구분하라
 
@@ -195,9 +195,9 @@ for (int j=0; j<NUMER_OF_TASKS; j++) {
 
 아래 코드처럼 sum을 사용하면 검색이 가능하다. WORK_DAYS_PER_WEEK도 검색하기 쉽다. 만약 5를 그냥 찾으면 5가 들어가는 이름을 모두 찾은 후 의미를 분석해 원하는 상수를 가려내야 한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/caec664d-5a7d-4fef-88ef-cd8ccfa7fce6/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191681-1dc25a9e-be53-448e-9f1d-add02566427d.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd408c8e-ef56-446b-ba1c-1f4012c66aa8/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173191636-7096667b-559b-42e0-b628-e51a7d2b4a7b.png)
 
 ### 인코딩을 피하라
 
