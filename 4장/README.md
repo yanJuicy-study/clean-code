@@ -293,8 +293,7 @@ protected Member() {}
 // 월 중 일자
 private int dayOfMonth;
 ```
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fc43b3a-1262-4335-97f6-abab55cac00a/Untitled.png)
+![주석](https://user-images.githubusercontent.com/43058016/175814666-a0e20b10-bc20-4ca0-94be-b4e4fdb58dc8.png)
 
 위 예시를 보고 많이 뜨끔했음. ㅎㅎ..
 
