@@ -12,5 +12,10 @@
 | 4장 주석 | 김중재 | [발표 자료](./4장/README.md)   |
 | 5장 형식 맞추기 | 이한주 | [발표 자료](./5장/README.md)   |
 
+## 질문
+| Chapter | 질문 링크 |  
+| --- | --- |  
+| 3장 | [이한주](https://github.com/yanJuicy-study/clean-code/issues/1) |
+ 
 ## 발표 순서
 이한주 -> 강민규 -> 김중재 -> 이한주 -> ...
