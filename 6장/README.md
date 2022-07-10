@@ -16,8 +16,8 @@
 
 ```java
 public class Point {
-  private double x;
-  private double y;
+  public double x;
+  public double y;
 }
 ```
 
